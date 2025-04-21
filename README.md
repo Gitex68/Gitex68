@@ -9,7 +9,7 @@
 - 🚀 Préparation du **BIA** (*Brevet d’Initiation à l’Aéronautique*)
 - 🤖 Créateur de **bots Discord** & projets en **électronique**
 - 💻 J’apprends le **Python** et le **JavaScript**, mais j’explore aussi d’autres technos au fil de mes idées
-- 🎮 J’aime inventer des trucs absurdes et bidouiller des projets fous mais géniaux
+- 🎮 J’aime faire des trucs absurdes et bidouiller des projets incensés
 
 ---
 
