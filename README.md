@@ -7,7 +7,7 @@
 ## 🧠 À propos de moi
 
 - 🚀 Préparation du **BIA** (*Brevet d’Initiation à l’Aéronautique*)
-- 🤖 Créateur de **bots Discord** & projets en **électronique**
+- 🤖 Créateur de **bots Discord** & projets en **électronique** majoritairement 
 - 💻 J’apprends le **Python** et le **JavaScript**, mais j’explore aussi d’autres technos au fil de mes idées
 - 🎮 J’aime faire des trucs absurdes et bidouiller des projets incensés
 
@@ -15,7 +15,7 @@
 
 ## 🛠️ Compétences
 
-- **Langages :** `Python`, `JavaScript`, `HTML`, `CSS`
+- **Langages :** `Python`, `JavaScript`, `HTML`, `CSS`, `C++`
 - **IA & Automation :** bots discord, electronique
 - **Logiciels :** Visual Studio Code, Notepad++
 - **Soft skills :** + autonomie, +- travail en équipe, -- gestion de projets
@@ -24,8 +24,8 @@
 
 ## 🌐 En ce moment et après
 
-- 🔧 En dev : **bot Discord** & **mod HOI4**
-- 🧪 À venir : **mod Minecraft** & découverte de la **domotique**
+- 🔧 En dev : **bot Discord**
+- 🧪 À venir : **modpack Minecraft**, **App encyclopédie animaux** & découverte de la **domotique**
 - 📡 Objectif : **travailler dans un domaine qui me passionne**
 
 ---
