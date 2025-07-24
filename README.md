@@ -81,8 +81,3 @@
 > 🚀 *"L’espace est vaste, mais ta volonté peut l’être encore plus."* — **Gitex**
 
 </div>
-
----
-
-## 🐍 Animation des contributions
-![Snake animation](https://github.com/gitex68/gitex68/blob/output/github-contribution-grid-snake.svg)
